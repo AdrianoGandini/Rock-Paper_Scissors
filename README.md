@@ -15,7 +15,7 @@ Explore key topics in web development with a focus on JavaScript fundamentals:
 HTML, CSS, and JavaScript Together: Explore the synergy of these three technologies, discovering how they collaborate to create dynamic and engaging web experiences.
 
 
-##Features
+## Features
 - Play against the computer.
 - Easy-to-use interface with clickable buttons.
 - Real-time updates of the game results.
